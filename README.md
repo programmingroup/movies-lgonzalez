@@ -36,6 +36,7 @@ Visit the repository on Docker Hub [here](https://hub.docker.com/r/programmingro
 
 ## Live Demo
 Experience the project in action by visiting the live demo [here](https://movies-lgonzalez-production.up.railway.app)!
+![image](https://github.com/user-attachments/assets/e827ff8e-282d-445e-b39a-c0783d32618f)
 
 ## Authors
 
