@@ -26,6 +26,7 @@ Download and install Node.js from [here](https://nodejs.org/en/download/package-
 ```
 
 ## Deployment Docker image 🐳
+Visit the repository on Docker Hub [here](https://hub.docker.com/r/programmingroup/movies/tags)!
 
 ```bash
   > docker pull programmingroup/movies:latest
@@ -33,6 +34,8 @@ Download and install Node.js from [here](https://nodejs.org/en/download/package-
   > docker run -d -p 8080:8080 programmingroup/movies:latest
 ```
 
+## Live Demo
+Experience the project in action by visiting the live demo [here](https://movies-lgonzalez-production.up.railway.app)!
 
 ## Authors
 
