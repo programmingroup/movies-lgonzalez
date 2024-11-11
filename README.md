@@ -27,12 +27,14 @@ Download and install Node.js from [here](https://nodejs.org/en/download/package-
 
 ## Deployment Docker image 🐳
 Visit the repository on Docker Hub [here](https://hub.docker.com/r/programmingroup/movies/tags)!
-
+#### 1. Check if port 8080 is free
+#### 2. Run these two commands in your terminal 
 ```bash
   > docker pull programmingroup/movies:latest
 
   > docker run -d -p 8080:8080 programmingroup/movies:latest
 ```
+#### 3. Connecting to http://localhost:8080 using your browser
 
 ## Live Demo
 Experience the project in action by visiting the live demo [here](https://movies-lgonzalez-production.up.railway.app)!
